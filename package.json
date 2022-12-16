@@ -64,7 +64,7 @@
     "p-limit": "4.0.0",
     "pm2": "5.2.2",
     "pretty-bytes": "6.0.0",
-    "puppeteer": "19.4.0",
+    "puppeteer": "19.4.1",
     "random-float": "3.0.0",
     "semver": "7.3.8",
     "systeminformation": "5.16.6",
