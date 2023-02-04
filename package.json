@@ -63,7 +63,7 @@
     "oicq": "2.3.1",
     "p-limit": "4.0.0",
     "pm2": "5.2.2",
-    "pretty-bytes": "6.0.0",
+    "pretty-bytes": "6.1.0",
     "puppeteer": "19.6.3",
     "random-float": "3.0.0",
     "semver": "7.3.8",
