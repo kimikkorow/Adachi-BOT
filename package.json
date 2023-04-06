@@ -64,7 +64,7 @@
     "p-limit": "4.0.0",
     "pm2": "5.3.0",
     "pretty-bytes": "6.1.0",
-    "puppeteer": "19.8.3",
+    "puppeteer": "19.8.5",
     "random-float": "3.0.0",
     "semver": "7.3.8",
     "systeminformation": "5.17.12",
@@ -80,7 +80,7 @@
     "eslint-plugin-sort-exports": "0.8.0",
     "eslint-plugin-vue": "9.10.0",
     "eslint-plugin-yml": "1.5.0",
-    "npm-check-updates": "16.10.6",
+    "npm-check-updates": "16.10.7",
     "prettier": "2.8.7"
   }
 }
