@@ -58,7 +58,7 @@
     "md5": "2.3.0",
     "moment": "2.29.4",
     "moment-timezone": "0.5.43",
-    "node-fetch": "3.3.1",
+    "node-fetch": "3.3.2",
     "node-schedule": "2.1.1",
     "oicq": "2.3.1",
     "p-limit": "4.0.0",
@@ -67,7 +67,7 @@
     "puppeteer": "20.9.0",
     "random-float": "3.0.0",
     "semver": "7.5.4",
-    "systeminformation": "5.18.7",
+    "systeminformation": "5.18.8",
     "yargs": "17.7.2"
   },
   "devDependencies": {
@@ -80,7 +80,7 @@
     "eslint-plugin-sort-exports": "0.8.0",
     "eslint-plugin-vue": "9.15.1",
     "eslint-plugin-yml": "1.8.0",
-    "npm-check-updates": "16.10.16",
+    "npm-check-updates": "16.10.17",
     "prettier": "3.0.0"
   }
 }
