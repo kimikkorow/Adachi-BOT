@@ -67,14 +67,14 @@
     "puppeteer": "20.9.0",
     "random-float": "3.0.0",
     "semver": "7.5.4",
-    "systeminformation": "5.18.9",
+    "systeminformation": "5.18.10",
     "yargs": "17.7.2"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "4.2.0",
-    "eslint": "8.45.0",
+    "eslint": "8.46.0",
     "eslint-plugin-check-json-value": "2.1.2",
-    "eslint-plugin-import": "2.27.5",
+    "eslint-plugin-import": "2.28.0",
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "6.1.1",
     "eslint-plugin-sort-exports": "0.8.0",
