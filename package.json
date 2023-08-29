@@ -81,6 +81,6 @@
     "eslint-plugin-vue": "9.17.0",
     "eslint-plugin-yml": "1.8.0",
     "npm-check-updates": "16.13.2",
-    "prettier": "3.0.2"
+    "prettier": "3.0.3"
   }
 }
