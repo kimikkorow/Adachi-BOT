@@ -80,7 +80,7 @@
     "eslint-plugin-sort-exports": "0.9.1",
     "eslint-plugin-vue": "9.21.1",
     "eslint-plugin-yml": "1.12.2",
-    "npm-check-updates": "16.14.14",
+    "npm-check-updates": "16.14.15",
     "prettier": "3.2.5"
   }
 }
