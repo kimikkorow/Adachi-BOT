@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "cross-env": "7.0.3",
-    "express": "4.18.2",
+    "express": "4.18.3",
     "fastest-levenshtein": "1.0.16",
     "figlet": "1.7.0",
     "fnv-plus": "1.3.1",
