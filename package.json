@@ -67,7 +67,7 @@
     "puppeteer": "22.4.1",
     "random-float": "3.0.0",
     "semver": "7.6.0",
-    "systeminformation": "5.22.0",
+    "systeminformation": "5.22.1",
     "yargs": "17.7.2"
   },
   "devDependencies": {
@@ -78,7 +78,7 @@
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "6.1.1",
     "eslint-plugin-sort-exports": "0.9.1",
-    "eslint-plugin-vue": "9.22.0",
+    "eslint-plugin-vue": "9.23.0",
     "eslint-plugin-yml": "1.12.2",
     "npm-check-updates": "16.14.15",
     "prettier": "3.2.5"
